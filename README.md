@@ -16,9 +16,9 @@ This project handles user input, validates credentials on the backend, and retur
 
 ## 🖼️ Screenshots
 
-- **Login Page** (https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045142.png)
-- **Success** (https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045215.png)
-- **Failure** (https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045316.png)
+- **Login Page** ![Login Page Screenshot](https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045142.png)
+- **Success** ![Success Page Screenshot](https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045215.png)
+- **Failure** ![Failure Page Screenshot](https://github.com/ravishankar1810/LoginWebApp/blob/30d35834913687e7169fbdfe18ccf4a414bc9d2c/Screenshot%202025-11-02%20045316.png)
 
 *(Add screenshots here)*
 
